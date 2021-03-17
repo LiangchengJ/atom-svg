@@ -1,0 +1,12 @@
+{
+  "name": "atom-svg",
+  "main": "./lib/atom-svg",
+  "version": "0.0.0",
+  "description": "SVG preview support for Atom",
+  "repository": "https://github.com/LiangchengJ/atom-svg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

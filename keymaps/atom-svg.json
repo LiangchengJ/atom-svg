@@ -1,0 +1,8 @@
+{
+  ".platform-darwin atom-text-editor": {
+    "cmd-alt-p": "atom-svg:toggle"
+  },
+  ".platform-linux atom-text-editor, .platform-win32 atom-text-editor": {
+    "ctrl-alt-p": "atom-svg:toggle"
+  }
+}

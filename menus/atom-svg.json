@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    "atom-workspace": [
+      {
+        "label": "Preview",
+        "command": "atom-svg:toggle"
+      }
+    ]
+  }
+}
