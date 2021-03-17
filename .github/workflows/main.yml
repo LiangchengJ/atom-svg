@@ -20,7 +20,7 @@ jobs:
     strategy:
       matrix:
         os: [macos-latest, ubuntu-latest, windows-latest]
-        channel: [stable, beta]
+        channel: [stable]
 
     # The type of runner that the job will run on
     runs-on: ${{ matrix.os }}
