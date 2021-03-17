@@ -1,4 +1,4 @@
-# atom-svg package
+# Atom SVG package
 
 SVG preview support for Atom.
 
